@@ -1,0 +1,12 @@
+50,35,rice,pantry,365
+2,125,eggs,dairy,14
+3,499,chicken breasts,meat,3
+10,249,apples,produce,7
+1,599,olive oil,pantry,365
+4,375,pasta,pantry,180
+6,199,canned tomatoes,pantry,730
+8,75,bananas,produce,5
+2,649,ground beef,meat,2
+3,299,bread,bakery,74
+2,666,beans,produce,21
+40,123,Cup,HouseHold,21

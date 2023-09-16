@@ -1,0 +1,17 @@
+Customer Name: si
+dsa (sda): 1 x 21.0 ৳
+Total Price: 21.0 ৳
+Customer Name: sa
+olive oil (pantry): 3 x 1.0 ৳
+Total Price: 3.0 ৳
+Customer Name: Shafayat
+rice (pantry): 1 x 50.0 ৳
+eggs (dairy): 1 x 2.0 ৳
+chicken breasts (meat): 1 x 3.0 ৳
+apples (produce): 1 x 10.0 ৳
+olive oil (pantry): 1 x 1.0 ৳
+pasta (pantry): 1 x 4.0 ৳
+bananas (produce): 1 x 8.0 ৳
+canned tomatoes (pantry): 1 x 6.0 ৳
+bread (bakery): 1 x 3.0 ৳
+Total Price: 87.0 ৳
