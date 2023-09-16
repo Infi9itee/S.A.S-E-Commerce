@@ -27,9 +27,9 @@ source code is [here](S.A.S-E-Commerce/tree/master/src/ecommerce/)
 
 ### Contributor
 
-<!-- - Project director [Dr. Mohammad Salah Uddin, Associate Professor Department of Computer Science & Engineering, East West University]
+Project director [Dr. Mohammad Salah Uddin, Associate Professor Department of Computer Science & Engineering, East West University]
 - Project member [Ahnaf Ahmed](https://github.com/AhnafAhmed29)
 - member [Shafayat Hasan Rubaiyat](https://github.com/Infi9itee)
-- member [Sarfaraz Ahamed Shovon](https://github.com/shovon021) -->
+- member [Sarfaraz Ahamed Shovon](https://github.com/shovon021)
 
 ---
