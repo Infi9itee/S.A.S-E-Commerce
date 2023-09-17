@@ -1,4 +1,4 @@
-Customer Name: si
+Customer Name: sid
 dsa (sda): 1 x 21.0 ৳
 Total Price: 21.0 ৳
 Customer Name: sa
