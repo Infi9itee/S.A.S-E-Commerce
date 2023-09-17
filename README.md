@@ -21,7 +21,7 @@ You need to extract the zip file and open this jar file.
 
 ### Source code
 
-source code is [here](S.A.S-E-Commerce/tree/master/src/ecommerce/)
+source code is [here](S.A.S-E-Commerce/tree/master/src/ecommerce)
 
 ---
 
