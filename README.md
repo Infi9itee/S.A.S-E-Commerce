@@ -28,8 +28,8 @@ source code is [here](/src/ecommerce)
 ### Contributor
 
 Project director [Dr. Mohammad Salah Uddin, Associate Professor Department of Computer Science & Engineering, East West University]
-- member [Shafayat Hasan Rubaiyat](https://github.com/Infi9itee)
-- member [Ahnaf Ahmed](https://github.com/AhnafAhmed29)
-- member [Sarfaraz Ahamed Shovon](https://github.com/shovon021)
+- Lead Developer [Shafayat Hasan Rubaiyat](https://github.com/Infi9itee)
+- Assistant Developer [Ahnaf Ahmed](https://github.com/AhnafAhmed29)
+- Tester [Sarfaraz Ahamed Shovon](https://github.com/shovon021)
 
 ----
