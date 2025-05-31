@@ -27,7 +27,6 @@ source code is [here](/src/ecommerce)
 
 ### Contributor
 
-Project director [Dr. Mohammad Salah Uddin, Associate Professor Department of Computer Science & Engineering, East West University]
 - Lead Developer [Shafayat Hasan Rubaiyat](https://github.com/Infi9itee)
 - Readme Writer/Tester [Ahnaf Ahmed](https://github.com/AhnafAhmed29)
 - Tester [Sarfaraz Ahamed Shovon](https://github.com/shovon021)
